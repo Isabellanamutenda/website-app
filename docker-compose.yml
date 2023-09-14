@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  websiteapp:
+    image: websiteapp
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production

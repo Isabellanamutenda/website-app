@@ -8,7 +8,16 @@ import Header from "./components/Header";
 function App() {
   return (
 
-    </div>
+    <div>
+
+    <Header />
+    <Home />
+    <About />
+    <Experience />
+    <Contact />
+
+    
+  </div>
   );
 }
 

@@ -1,26 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+// import About from "./components/About";
+// import Contact from "./components/Contact";
+// import Experience from "./components/Experience";
+import Home from "./components/Home";
+import Header from "./components/Header";
 
 function App() {
+  	// Element type is invalid: expected a string (for built-in components) 
+	// or a class/function (for composite components) but got: object.
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit
-          <code>src/App.js</code>
-          and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+    <div>
+    <Header />
+    <Home />
+    {/* <About /> */}
+    {/* <Experience /> */}
+    {/* <Contact /> */}
+
+  </div>
   );
 }
 

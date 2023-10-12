@@ -15,9 +15,11 @@ const Home = () => {
             I'm a Full-stack Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+          Full-stack web engineer with a background in developing efficient software applications in a global market. 
+          2+ years of industry experience, including mentoring 15+ junior developers to achieve concrete goals on a strict deadline.
+           My strong skills include React, Redux, JavaScript and Ruby. I also love ralis and in the process of mastering it.
+            Currently, I love to work on front-end web application using technologies like React, Redux,Tailwind and Bootstrap. 
+            When I'm not at my laptop, I love to go out and experience the beautiful nature, having a walk with my dog.
           </p>
 
           <div>

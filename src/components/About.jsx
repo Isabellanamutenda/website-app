@@ -14,12 +14,11 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Full-stack web engineer with a background in developing efficient software applications in a global market. 
+          2+ years of industry experience, including mentoring 15+ junior developers to achieve concrete goals on a strict deadline.
+          My strong skills include React, Redux, JavaScript and Ruby. I also love ralis and in the process of mastering it.
+            Currently, I love to work on front-end web application using technologies like React, Redux,Tailwind and Bootstrap. 
+            When I'm not at my laptop, I love to go out and experience the beautiful nature, having a walk with my dog.
         </p>
 
         <br />

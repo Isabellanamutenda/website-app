@@ -1,40 +1,34 @@
-// import React from "react";
+import React from "react";
 
-// const About = () => {
-//   return (
-//     <div
-//       name="about"
-//       className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
-//     >
-//       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-//         <div className="pb-8">
-//           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-//             About
-//           </p>
-//         </div>
+const About = () => {
+  return (
+    <div
+      name="about"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+    >
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+        <div className="pb-8">
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+            About
+          </p>
+        </div>
 
-//         <p className="text-xl mt-20">
-//           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-//           deserunt illum mollitia officiis qui exercitationem perferendis neque
-//           quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-//           iste, totam fugiat recusandae rerum laborum perferendis molestiae
-//           aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-//           ab mollitia voluptatibus, a nostrum eveniet laborum!
-//         </p>
+        <p className="text-xl mt-20">
+        Full-stack web engineer with a background in developing efficient software applications in a global market. 
+          2+ years of industry experience, including mentoring 15+ junior developers to achieve concrete goals on a strict deadline.
+          My strong skills include React, Redux, JavaScript and Ruby. I also love ralis and in the process of mastering it.
+            Currently, I love to work on front-end web application using technologies like React, Redux,Tailwind and Bootstrap. 
+            When I'm not at my laptop, I love to go out and experience the beautiful nature, having a walk with my dog.
+        </p>
 
-//         <br />
+        <br />
 
-//         <p className="text-xl">
-//           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-//           pariatur, vel similique sint, nobis aspernatur ut praesentium
-//           explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-//           quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-//           Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-//           magni quo! Eum cupiditate debitis labore.
-//         </p>
-//       </div>
-//     </div>
-//   );
-// };
+        <p className="text-xl">
+          Som of the technologies I'm familiar with
+        </p>
+      </div>
+    </div>
+  );
+};
 
-// export default About;
+export default About;

@@ -1,7 +1,7 @@
 import React from "react";
 import About from "./components/About";
-// import Contact from "./components/Contact";
 import Experience from "./components/Experience";
+import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Header from "./components/Header";
 
@@ -15,7 +15,7 @@ function App() {
     <Home />
     <About />
     <Experience />
-    {/* <Contact /> */}
+    <Contact />
 
   </div>
   );

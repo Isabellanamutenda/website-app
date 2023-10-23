@@ -24,7 +24,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          Som of the technologies I'm familiar with
+          Some of the technologies I'm familiar with
         </p>
       </div>
     </div>
